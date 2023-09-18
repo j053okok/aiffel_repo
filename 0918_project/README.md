@@ -12,6 +12,7 @@
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 퀘스트 문제 요구조건 등을 지칭
         - 최종 결과물을 잘 작성하였습니다.
+            
           ![0918_1](https://github.com/j053okok/aiffel_repo/assets/88922672/1f27de10-6195-49b8-a3c2-1a9c3e66de18)
           ![0918_11](https://github.com/j053okok/aiffel_repo/assets/88922672/cb8ae5df-b801-42eb-b38e-7ebf76497814)
 
